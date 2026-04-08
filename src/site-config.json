@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Gusto Construction Llc",
+    "phone": "+14802060395",
+    "category": "deck builder",
+    "city": "Mesa",
+    "state": "AZ"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Mesa's Trusted Deck Builders",
+      "heroSubline": "Crafting durable, beautiful decks for Arizona living. Built to withstand the heat, designed for your lifestyle.",
+      "aboutTitle": "Building Mesa Decks That Last",
+      "aboutText": [
+        "Gusto Construction LLC started with a simple mission: to build quality decks that could withstand the harsh Arizona climate. Founded by lifelong Mesa resident, Marco Guerrero, we understood the unique challenges our desert environment poses to outdoor structures.",
+        "We're not just contractors, we're craftsmen. We approach every project with a commitment to quality materials, expert construction, and unwavering attention to detail. Our goal is to exceed your expectations and create an outdoor space you'll enjoy for years to come.",
+        "Gusto Construction is deeply rooted in the Mesa community. We source materials locally whenever possible, support local businesses, and believe in giving back. We're proud to contribute to the beauty and value of our neighborhoods."
+      ],
+      "valueProps": [
+        {
+          "title": "Built to Last",
+          "description": "We use premium materials and construction techniques to ensure your deck withstands the Arizona sun and monsoons."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "From simple patios to multi-level masterpieces, we create decks tailored to your unique style and needs."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team ensures precise installation for a safe, stable, and visually stunning deck."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Mesa's climate and building codes, ensuring a seamless and compliant project."
+        }
+      ],
+      "ctaHeadline": "Transform Your Backyard Today",
+      "ctaSubline": "Get a free quote and start planning your dream deck with Gusto Construction."
+    },
+    "services": [
+      {
+        "slug": "composite-deck-installation",
+        "name": "Composite Deck Installation",
+        "shortDescription": "Low-maintenance, long-lasting composite decks built for Arizona living.",
+        "description": "Composite decking is the smart choice for homeowners who want the beauty of wood without the constant upkeep. Unlike traditional wood, composite decks resist fading, staining, scratching, and insect damage. Gusto Construction specializes in expert composite deck installation using top-quality brands like Trex and Fiberon. We'll help you choose the perfect color and style to complement your home and create a stunning outdoor space that requires minimal maintenance. \n\nOur installation process includes a sturdy substructure, proper spacing for ventilation, and hidden fasteners for a clean, seamless look. We pay close attention to detail to ensure your composite deck is not only beautiful but also safe and durable. Enjoy years of worry-free outdoor living with a composite deck from Gusto Construction. We can also integrate features like built-in lighting, benches, and railings to complete your outdoor oasis.",
+        "process": [
+          "Step 1: Site Evaluation & Design Consultation",
+          "Step 2: Material Selection & Permitting",
+          "Step 3: Substructure Construction",
+          "Step 4: Deck Board Installation & Finishing"
+        ],
+        "benefits": [
+          "Low Maintenance",
+          "Fade & Stain Resistant",
+          "Insect Resistant",
+          "Long Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of composite decking over wood?",
+            "answer": "Composite decking requires significantly less maintenance than wood, resists fading and staining, and is not susceptible to insect damage. It also offers a longer lifespan, making it a cost-effective choice in the long run."
+          },
+          {
+            "question": "How long will a composite deck last in the Arizona sun?",
+            "answer": "High-quality composite decking is designed to withstand extreme weather conditions, including the intense Arizona sun. With proper installation and care, a composite deck from Gusto Construction can last for 25 years or more."
+          },
+          {
+            "question": "Do you offer a warranty on your composite deck installations?",
+            "answer": "Yes, we offer a comprehensive warranty on our composite deck installations, covering both materials and workmanship. Please contact us for specific warranty details."
+          }
+        ]
+      },
+      {
+        "slug": "wood-deck-construction",
+        "name": "Wood Deck Construction",
+        "shortDescription": "Custom wood decks built with quality materials and expert craftsmanship.",
+        "description": "There's nothing quite like the natural beauty and warmth of a wood deck. Gusto Construction offers custom wood deck construction using a variety of high-quality wood species, including redwood, cedar, and pressure-treated lumber. We'll work with you to design a deck that perfectly complements your home and lifestyle, from simple platforms to elaborate multi-level designs. \n\nOur experienced carpenters use time-tested techniques and premium fasteners to ensure a strong, durable, and visually appealing wood deck. We understand the challenges of the Arizona climate and take extra precautions to protect your wood deck from the sun, heat, and moisture. Regular maintenance, including cleaning and sealing, is essential to prolong the life of your wood deck. Let Gusto Construction build the wood deck of your dreams.",
+        "process": [
+          "Step 1: Design Consultation & Material Selection",
+          "Step 2: Permitting & Site Preparation",
+          "Step 3: Framing & Substructure Construction",
+          "Step 4: Decking Installation & Finishing"
+        ],
+        "benefits": [
+          "Natural Beauty",
+          "Customizable Design",
+          "Affordable Option",
+          "Classic Appeal"
+        ],
+        "faq": [
+          {
+            "question": "What type of wood is best for decks in Arizona?",
+            "answer": "Redwood and cedar are excellent choices for decks in Arizona due to their natural resistance to decay and insects. Pressure-treated lumber is also a durable and cost-effective option."
+          },
+          {
+            "question": "How often should I seal my wood deck?",
+            "answer": "In the Arizona climate, it's recommended to seal your wood deck every 1-2 years to protect it from the sun and moisture. Regular cleaning is also important to remove dirt and debris."
+          },
+          {
+            "question": "Can you build a deck around my existing pool?",
+            "answer": "Yes, we have extensive experience building decks around pools. We'll ensure proper drainage and safety features to create a beautiful and functional space."
+          }
+        ]
+      },
+      {
+        "slug": "deck-repair-and-restoration",
+        "name": "Deck Repair and Restoration",
+        "shortDescription": "Extending the life of your existing deck with expert repairs and restoration services.",
+        "description": "Is your deck showing signs of wear and tear? Gusto Construction offers comprehensive deck repair and restoration services to bring your old deck back to life. From replacing damaged boards to repairing loose railings, we can handle any deck repair project, big or small. We also offer deck cleaning, staining, and sealing services to protect your deck from the elements and enhance its beauty. \n\nOur experienced team will assess the condition of your deck and recommend the most cost-effective solutions to restore its safety and appearance. We use high-quality materials and proven techniques to ensure lasting repairs that will extend the life of your deck for years to come. Don't let a damaged deck detract from your outdoor enjoyment – call Gusto Construction for expert deck repair and restoration services.",
+        "process": [
+          "Step 1: Deck Inspection & Damage Assessment",
+          "Step 2: Repair Plan & Cost Estimate",
+          "Step 3: Material Procurement",
+          "Step 4: Repair & Restoration Work"
+        ],
+        "benefits": [
+          "Cost-Effective",
+          "Extends Deck Life",
+          "Improves Safety",
+          "Enhances Appearance"
+        ],
+        "faq": [
+          {
+            "question": "What are the common signs that my deck needs repair?",
+            "answer": "Common signs of deck damage include rotting wood, loose railings, wobbly posts, cracked or splintered boards, and insect infestation."
+          },
+          {
+            "question": "How much does deck repair typically cost?",
+            "answer": "The cost of deck repair depends on the extent of the damage and the materials required. We offer free estimates to assess your deck and provide a detailed cost breakdown."
+          },
+          {
+            "question": "Do I need a permit for deck repairs?",
+            "answer": "In some cases, a permit may be required for deck repairs, especially if structural changes are involved. We can help you determine if a permit is necessary and assist with the application process."
+          }
+        ]
+      },
+      {
+        "slug": "patio-cover-installation",
+        "name": "Patio Cover Installation",
+        "shortDescription": "Adding shade and protection to your patio with custom-built patio covers.",
+        "description": "Beat the Arizona heat with a custom-built patio cover from Gusto Construction. We offer a variety of patio cover options to suit your style and budget, including solid, lattice, and insulated covers. A patio cover can transform your outdoor space into a comfortable and usable area, providing shade, protection from the sun, and shelter from the rain. \n\nOur experienced team will work with you to design a patio cover that seamlessly integrates with your home's architecture and enhances your outdoor living experience. We use high-quality materials and expert construction techniques to ensure a durable and long-lasting patio cover that will withstand the Arizona climate. Enjoy your patio year-round with a custom patio cover from Gusto Construction.",
+        "process": [
+          "Step 1: Design Consultation & Material Selection",
+          "Step 2: Permitting & Site Preparation",
+          "Step 3: Post & Beam Installation",
+          "Step 4: Cover Installation & Finishing"
+        ],
+        "benefits": [
+          "Shade & Protection",
+          "Increased Comfort",
+          "Extended Outdoor Season",
+          "Enhanced Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What are the different types of patio covers?",
+            "answer": "We offer solid, lattice, and insulated patio covers. Solid covers provide complete shade and protection from the rain, while lattice covers offer partial shade and ventilation. Insulated covers provide superior temperature control and can help reduce energy costs."
+          },
+          {
+            "question": "Do I need a permit for a patio cover?",
+            "answer": "Yes, a permit is typically required for patio cover installation. We can handle the permit application process for you."
+          },
+          {
+            "question": "How much does a patio cover cost?",
+            "answer": "The cost of a patio cover depends on the size, style, and materials used. We offer free estimates to assess your needs and provide a detailed cost breakdown."
+          }
+        ]
+      },
+      {
+        "slug": "pergola-construction",
+        "name": "Pergola Construction",
+        "shortDescription": "Adding architectural interest and shaded relaxation to your backyard with a custom pergola.",
+        "description": "Enhance your outdoor living space with a beautiful and functional pergola from Gusto Construction. A pergola provides partial shade and architectural interest, creating a relaxing and inviting atmosphere in your backyard. We offer custom pergola construction using a variety of materials, including wood, vinyl, and metal. \n\nOur experienced team will work with you to design a pergola that perfectly complements your home and landscape. We use high-quality materials and expert construction techniques to ensure a durable and long-lasting pergola that will enhance your outdoor enjoyment for years to come. Add climbing plants for a natural touch or hang string lights for a romantic ambiance. Let Gusto Construction create the perfect pergola for your backyard oasis.",
+        "process": [
+          "Step 1: Design Consultation & Material Selection",
+          "Step 2: Permitting & Site Preparation",
+          "Step 3: Post & Beam Installation",
+          "Step 4: Rafter & Purlin Installation"
+        ],
+        "benefits": [
+          "Partial Shade",
+          "Architectural Interest",
+          "Enhanced Outdoor Space",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between a pergola and a patio cover?",
+            "answer": "A pergola provides partial shade and is typically open on top, while a patio cover provides complete shade and is fully covered."
+          },
+          {
+            "question": "What materials are used to build pergolas?",
+            "answer": "We offer pergola construction using wood, vinyl, and metal. Wood pergolas offer a natural and rustic look, while vinyl and metal pergolas are low-maintenance and durable."
+          },
+          {
+            "question": "Can I add climbing plants to my pergola?",
+            "answer": "Yes, climbing plants are a great way to add a natural touch to your pergola. We can help you choose the right plants for your climate and pergola design."
+          }
+        ]
+      },
+      {
+        "slug": "deck-lighting-installation",
+        "name": "Deck Lighting Installation",
+        "shortDescription": "Enhance the beauty and safety of your deck with professional deck lighting solutions.",
+        "description": "Illuminate your outdoor space and create a warm and inviting ambiance with professional deck lighting installation from Gusto Construction. We offer a variety of deck lighting options, including recessed lights, post cap lights, railing lights, and string lights. Deck lighting not only enhances the beauty of your deck but also improves safety by providing visibility at night. \n\nOur experienced electricians will expertly install your deck lighting system, ensuring proper wiring and safe operation. We use high-quality, weather-resistant fixtures that are designed to withstand the Arizona climate. Enjoy your deck year-round with a professionally installed deck lighting system from Gusto Construction.",
+        "process": [
+          "Step 1: Lighting Design & Planning",
+          "Step 2: Electrical Wiring & Installation",
+          "Step 3: Fixture Mounting & Connection",
+          "Step 4: System Testing & Optimization"
+        ],
+        "benefits": [
+          "Enhanced Beauty",
+          "Improved Safety",
+          "Extended Outdoor Use",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What types of deck lighting do you offer?",
+            "answer": "We offer a variety of deck lighting options, including recessed lights, post cap lights, railing lights, and string lights."
+          },
+          {
+            "question": "Is it safe to install deck lighting myself?",
+            "answer": "It's best to hire a professional electrician to install deck lighting to ensure proper wiring and safe operation. Incorrect wiring can be a fire hazard."
+          },
+          {
+            "question": "What are the benefits of LED deck lighting?",
+            "answer": "LED deck lighting is energy-efficient, long-lasting, and provides a bright and even light. It's also available in a variety of colors and styles."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Phoenix",
+        "slug": "phoenix-az",
+        "state": "AZ",
+        "content": "Gusto Construction LLC is proud to offer deck building services to homeowners in Phoenix, Arizona. We understand the unique challenges and opportunities presented by Phoenix's prevalent 1960s and 70s block construction homes. Our team is experienced in designing and building decks that seamlessly integrate with these existing structures, enhancing your outdoor living space.\n\nWe also recognize the extreme summer heat that Phoenix experiences. We use durable, heat-resistant materials and construction techniques to ensure your deck can withstand the harsh Arizona climate. From initial design to final installation, we are committed to providing high-quality craftsmanship and exceptional customer service to Phoenix residents.",
+        "localContext": "Phoenix decks must withstand extreme heat and often integrate with older block construction homes prevalent throughout the city.",
+        "nearbyAreas": [
+          "Glendale",
+          "Tempe",
+          "Scottsdale"
+        ]
+      },
+      {
+        "city": "Scottsdale",
+        "slug": "scottsdale-az",
+        "state": "AZ",
+        "content": "Gusto Construction LLC provides custom deck design and construction services to Scottsdale, Arizona. We cater to the unique needs of Scottsdale's luxury Southwestern estates, creating outdoor spaces that complement the architectural style and enhance the beauty of your property.\n\nOur team uses premium materials and expert craftsmanship to build decks that are both aesthetically pleasing and durable enough to withstand Scottsdale's intense summer heat. We understand the importance of creating a seamless transition between indoor and outdoor living spaces, and we work closely with our clients to design decks that meet their specific needs and preferences.",
+        "localContext": "Scottsdale decks often feature high-end materials and designs to match the luxury homes and withstand extreme summer conditions.",
+        "nearbyAreas": [
+          "Paradise Valley",
+          "Phoenix",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Chandler",
+        "slug": "chandler-az",
+        "state": "AZ",
+        "content": "Gusto Construction LLC is your trusted deck builder in Chandler, Arizona. We specialize in designing and constructing decks that complement the style of Chandler's many 1990s and 2000s planned developments. We understand the importance of creating functional and aesthetically pleasing outdoor living spaces for Chandler families.\n\nWe use high-quality materials and construction techniques to ensure your deck can withstand Chandler's extreme summer heat. We work with you to design a deck that meets your specific needs and preferences, whether you're looking for a space to entertain guests, relax with family, or simply enjoy the beautiful Arizona weather.",
+        "localContext": "Chandler decks should complement the architectural styles of the planned developments and withstand high temperatures.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Tempe",
+          "Mesa"
+        ]
+      },
+      {
+        "city": "Gilbert",
+        "slug": "gilbert-az",
+        "state": "AZ",
+        "content": "Gusto Construction LLC offers expert deck building services to homeowners in Gilbert, Arizona. With Gilbert's rapid growth and newer construction from the 2000s to 2020s, we specialize in designing and building modern decks that complement the style of new homes and enhance your outdoor lifestyle.\n\nWe understand the importance of creating a functional and beautiful outdoor space that can withstand Gilbert's extreme summer heat. We use durable materials and expert construction techniques to ensure your deck will provide years of enjoyment. From initial design to final installation, we are committed to providing exceptional customer service to Gilbert residents.",
+        "localContext": "Gilbert decks often feature modern designs and materials to match the newer construction homes and must be heat-resistant.",
+        "nearbyAreas": [
+          "Chandler",
+          "Mesa",
+          "Queen Creek"
+        ]
+      },
+      {
+        "city": "Tempe",
+        "slug": "tempe-az",
+        "state": "AZ",
+        "content": "Gusto Construction LLC provides deck building services to residents of Tempe, Arizona. With a large population of university-area homes near ASU, we understand the unique needs of Tempe homeowners. Whether you're looking to create a space for entertaining friends or simply relax and enjoy the Arizona sunshine, we can help you design and build the perfect deck.\n\nWe use quality materials and construction techniques to ensure your deck can withstand Tempe's extreme summer heat and provide years of enjoyment. We also offer a variety of customization options to match your personal style and needs.",
+        "localContext": "Tempe decks often cater to student populations, requiring durable and potentially compact designs suitable for smaller yards near ASU.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Mesa",
+          "Chandler"
+        ]
+      },
+      {
+        "city": "Mesa",
+        "slug": "mesa-az",
+        "state": "AZ",
+        "content": "Gusto Construction LLC proudly serves the city of Mesa, AZ, offering expert deck building and design services. As a local company, we understand the specific needs and preferences of Mesa homeowners. We specialize in creating custom decks that enhance your outdoor living experience and add value to your property.\n\nWe use only the highest quality materials and construction techniques to ensure that your deck is built to last and can withstand the harsh Arizona climate. Our team works closely with you throughout the entire process, from initial design to final installation, to ensure that your deck meets your exact specifications and exceeds your expectations.",
+        "localContext": "Mesa decks are designed to withstand the extreme heat and often are built to provide shade and comfort for outdoor living.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Chandler",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Queen Creek",
+        "slug": "queen-creek-az",
+        "state": "AZ",
+        "content": "Gusto Construction LLC is excited to offer deck building services to the growing community of Queen Creek, Arizona. We understand the desire for beautiful and functional outdoor living spaces in this family-friendly town. We specialize in designing and constructing decks that perfectly complement the style of your home and meet your specific needs.\n\nWe use only the highest quality materials and construction techniques to ensure your deck is built to last and can withstand Queen Creek's hot summers. Whether you're looking for a space to entertain guests, relax with family, or simply enjoy the beautiful Arizona weather, we can help you create the perfect outdoor oasis.",
+        "localContext": "Queen Creek decks are often designed for family-friendly outdoor living, with an emphasis on durability and ample space.",
+        "nearbyAreas": [
+          "Gilbert",
+          "San Tan Valley",
+          "Chandler"
+        ]
+      },
+      {
+        "city": "Paradise Valley",
+        "slug": "paradise-valley-az",
+        "state": "AZ",
+        "content": "Gusto Construction LLC provides premium deck building services to Paradise Valley, Arizona, known for its luxury homes and stunning desert landscapes. We specialize in designing and constructing high-end decks that seamlessly integrate with the architectural style of your home and enhance the natural beauty of your property.\n\nWe use only the finest materials and expert craftsmanship to ensure your deck is both aesthetically pleasing and durable enough to withstand Paradise Valley's intense summer heat. We understand the importance of creating a luxurious outdoor living space that meets your specific needs and preferences.",
+        "localContext": "Paradise Valley decks typically feature high-end materials, custom designs, and seamless integration with luxury homes and desert landscapes.",
+        "nearbyAreas": [
+          "Scottsdale",
+          "Phoenix",
+          "Tempe"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Composite Deck Installation",
+        "text": "Gusto Construction did an amazing job installing our new composite deck! Marco was very helpful in choosing the right materials and the crew was professional and efficient. The deck looks fantastic and we're so happy with the result. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Wood Deck Repair",
+        "text": "Our wood deck was in pretty bad shape after years of sun and monsoons. Gusto Construction came out and replaced the damaged boards and resealed the entire deck. They did a great job and the deck looks like new again. Only docked one star because the communication could have been a bit better.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Patio Cover Installation",
+        "text": "We hired Gusto Construction to install a patio cover over our back patio and we couldn't be happier. It's made a huge difference in how much we use the space, especially during the hot summer months. The quality of the work is excellent and the price was very reasonable.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Pergola Construction",
+        "text": "Gusto Construction built a beautiful pergola in our backyard. It's exactly what we wanted and adds so much character to our outdoor space. The team was professional, courteous, and paid attention to every detail. We highly recommend them!",
+        "date": "2024-10-25"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Deck Lighting Installation",
+        "text": "We had Gusto Construction install deck lighting around our pool, and it looks fantastic! The lights create a beautiful ambiance and make the space much safer at night. The installation was quick and easy. I would definitely use them again.",
+        "date": "2024-11-12"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Composite Deck Installation",
+        "text": "From start to finish, Gusto Construction provided exceptional service. They helped us design the perfect deck for our needs and the installation was flawless. The crew was professional and very tidy. We are extremely happy with our new deck!",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Mesa Deck Builder | Gusto Construction LLC",
+        "description": "Expert deck builders in Mesa, AZ. Composite & wood decks, repairs, patio covers. Free quotes! Built to last in the Arizona climate."
+      },
+      "about": {
+        "title": "About Gusto Construction LLC",
+        "description": "Learn about Gusto Construction LLC, Mesa's trusted deck builder. Quality craftsmanship, local expertise, and durable decks."
+      },
+      "services": {
+        "title": "Deck Building Services | Gusto Construction",
+        "description": "Gusto Construction LLC offers deck installation, repair, patio covers, & pergolas in Mesa, AZ. Built for the Arizona climate."
+      },
+      "contact": {
+        "title": "Contact Gusto Construction LLC",
+        "description": "Contact Gusto Construction LLC for deck building services in Mesa, AZ. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Gusto Construction LLC Reviews",
+        "description": "Read reviews of Gusto Construction LLC, Mesa's top-rated deck builder. See what our satisfied customers are saying."
+      },
+      "service-areas": {
+        "title": "Service Areas",
+        "description": "Deck builder service areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "composite-deck-installation": "/images/service-composite-deck-installation.webp",
+      "wood-deck-construction": "/images/service-wood-deck-construction.webp",
+      "deck-repair-and-restoration": "/images/service-deck-repair-and-restoration.webp",
+      "patio-cover-installation": "/images/service-patio-cover-installation.webp",
+      "pergola-construction": "/images/service-pergola-construction.webp",
+      "deck-lighting-installation": "/images/service-deck-lighting-installation.webp"
+    },
+    "servicesResponsive": {
+      "composite-deck-installation": {
+        "src": "/images/service-composite-deck-installation.webp",
+        "srcset": "/images/service-composite-deck-installation-400w.webp 400w, /images/service-composite-deck-installation-800w.webp 800w, /images/service-composite-deck-installation-1200w.webp 1200w, /images/service-composite-deck-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-deck-construction": {
+        "src": "/images/service-wood-deck-construction.webp",
+        "srcset": "/images/service-wood-deck-construction-400w.webp 400w, /images/service-wood-deck-construction-800w.webp 800w, /images/service-wood-deck-construction-1200w.webp 1200w, /images/service-wood-deck-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-repair-and-restoration": {
+        "src": "/images/service-deck-repair-and-restoration.webp",
+        "srcset": "/images/service-deck-repair-and-restoration-400w.webp 400w, /images/service-deck-repair-and-restoration-800w.webp 800w, /images/service-deck-repair-and-restoration-1200w.webp 1200w, /images/service-deck-repair-and-restoration.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-cover-installation": {
+        "src": "/images/service-patio-cover-installation.webp",
+        "srcset": "/images/service-patio-cover-installation-400w.webp 400w, /images/service-patio-cover-installation-800w.webp 800w, /images/service-patio-cover-installation-1200w.webp 1200w, /images/service-patio-cover-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pergola-construction": {
+        "src": "/images/service-pergola-construction.webp",
+        "srcset": "/images/service-pergola-construction-400w.webp 400w, /images/service-pergola-construction-800w.webp 800w, /images/service-pergola-construction-1200w.webp 1200w, /images/service-pergola-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-lighting-installation": {
+        "src": "/images/service-deck-lighting-installation.webp",
+        "srcset": "/images/service-deck-lighting-installation-400w.webp 400w, /images/service-deck-lighting-installation-800w.webp 800w, /images/service-deck-lighting-installation-1200w.webp 1200w, /images/service-deck-lighting-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
